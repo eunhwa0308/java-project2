@@ -1,6 +1,6 @@
 package com.example.javaproject2.week1.day5;
 
-import com.example.javaproject2.PrintHello;
+import com.example.javaproject2.week1.day2.PrintHello;
 
 public class ConstantEx {
     public static void main(String[] args) {
